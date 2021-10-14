@@ -4,17 +4,17 @@
   
   
   <entry>
-    <title>my first blog</title>
+    <title>二值神经网络_01</title>
     <link href="/2021/09/19/Blog01/"/>
     <url>/2021/09/19/Blog01/</url>
     
-    <content type="html"><![CDATA[<p>This is my first blog.</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="1-什么是二值神经网络？"><a href="#1-什么是二值神经网络？" class="headerlink" title="1. 什么是二值神经网络？"></a>1. 什么是二值神经网络？</h2><p>二值神经网络的思想很简单，就是想办法将神经网络中浮点数（32bit）表示的权重(Weights)、每一层的输入值(Activations)使用1bit来进行存储和表示，从而达到对深度神经网络模型进行压缩的目的。</p><p><img src="/img/post/binary_neural_network.png"></p>]]></content>
     
     
     
     <tags>
       
-      <tag>hello</tag>
+      <tag>二值神经网络</tag>
       
     </tags>
     
